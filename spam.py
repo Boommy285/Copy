@@ -4,7 +4,7 @@ import requests,random,json,time,sys,os,re
 # I AM FROM BOOM
 # I LOVE BOOM---------------------------------------------------------------
 
-#I HACKER LAOS -----------------------WARNA----------------------------
+#I HACKER BOOM -----------------------WARNA----------------------------
 p = '\x1b[0m'
 m = '\x1b[91m'
 h = '\x1b[92m'

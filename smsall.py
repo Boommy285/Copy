@@ -3,7 +3,7 @@ import requests,json,time,threading,os,sys
 #from requests_futures import sessions
 session = requests.Session()
 os.system("clear")
-print ("FB: Shadow Tak")
+print ("FB: Boom troom")
 numbers = input("เบอร์66:")
 num = int(input("จำนวน:"))
 class SMS():
